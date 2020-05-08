@@ -1,5 +1,17 @@
 # Empathy Map <h1> tag
 
+Who are we empathizing with?
+>Who is the person we want to understand
+>What is the situation they are in?
+>What is their role in the situation?
+
+What do they need to do?
+>What do they need to do differntly?
+>What job(s) do they need to get done?
+>What decision(s) do they need to make?
+>How will they know they were successful?
+
+
 Think and Feel:  
 > I hope im getting the best deal  
 > I hope the relationship manager delivers my demands 
