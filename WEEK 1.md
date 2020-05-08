@@ -27,7 +27,7 @@ Gains:
 > Opportunity for best deal 
 
 
-# Point Of View <h1> tag 
+# Point Of View <h1> 
 
 FIRST POINT OF VIEW (Inbound) :
 > USER: Travel Company Customers
