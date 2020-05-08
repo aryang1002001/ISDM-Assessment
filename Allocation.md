@@ -6,10 +6,12 @@
 * See
 
 ## Christian
+* Who are we empathising with
 * Say
 * Do
 
 ## Brendan
+* What do they need to do
 * Pains
 * Gains
 
