@@ -1,4 +1,4 @@
-# Empathy Map <h1> tag
+# Empathy Map <h1> 
 
 Who are we empathizing with?
 >Who is the person we want to understand
