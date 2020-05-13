@@ -10,7 +10,8 @@ Hear:
 > I hear that I will be matched to a relationship manager based on their skills and my profile and preferences
 
 See:
->
+> I see what the travel market can offer me
+> I see a potential professional relationship with a relationship manager who can cater to my needs
 
 Say:
 > Ask about travel bookings 
