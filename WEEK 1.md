@@ -18,13 +18,14 @@ Do:
 > Talking to RM
 
 Pains:
-> Fear of getting scammed 
-> Not getting the best deal 
-> waste of time inquiring
+> Fear my personal information being misused or being scammed
+> being connected to an inadequate relationship manager and not recieving the best deal suited to my preferences 
+> Wasting time enquiring and not receiving adequate service.
 
 Gains:
-> Assistance in travel booking 
-> Opportunity for best deal 
+> Assistance in booking travel destinations and packages
+> The opportunity to receive the best deal in relation to my preferences
+
 
 
 # Point Of View <h1> tag 
