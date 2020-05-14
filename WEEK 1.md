@@ -24,7 +24,8 @@ Pains:
 
 Gains:
 > Assistance in booking travel destinations and packages
-> The opportunity to receive the best deal in relation to my preferences
+> The opportunity to receive well suited package in relation to my chosen preferences
+> Acquiring the best deals and saving money
 
 
 
