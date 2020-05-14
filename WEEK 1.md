@@ -1,9 +1,9 @@
 # Empathy Map <h1> 
 
 Who are we empathizing with?
->Who is the person we want to understand
->What is the situation they are in?
->What is their role in the situation?
+>Who is the person we want to understand? We want to understand the customer/end user
+>What is the situation they are in? They are in a situation to purchase holiday packages offered by the RM's
+>What is their role in the situation? 
 
 What do they need to do?
 >What do they need to do differntly?
@@ -23,11 +23,12 @@ See:
 >
 
 Say:
-> Ask about travel bookings 
+> Where can I travel? How much does it cost? What is included in the costs? (Example accomodations)
 
 Do:
 > Looking for deals
 > Talking to RM
+>Asking questions 
 
 Pains:
 > Fear of getting scammed 
