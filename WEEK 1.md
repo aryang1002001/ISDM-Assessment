@@ -6,10 +6,10 @@ Who are we empathizing with?
 >What is their role in the situation? 
 
 What do they need to do?
->What do they need to do differntly?
->What job(s) do they need to get done?
->What decision(s) do they need to make?
->How will they know they were successful?
+>What do they need to do differently?
+>What job(s) do they need to get done? Providing details to the company. dialing the CMC
+>What decision(s) do they need to make? The choice between one travel package or another, the amount of money they are willing to spend
+>How will they know they were successful? If they got their preferred holiday package for a price they are willing to pay
 
 
 Think and Feel:  
@@ -34,13 +34,15 @@ Do:
 >Asking questions 
 
 Pains:
-> Fear of getting scammed 
-> Not getting the best deal 
-> waste of time inquiring
+> Fear my personal information being misused or being scammed
+> being connected to an inadequate relationship manager and not recieving the best deal suited to my preferences 
+> Wasting time enquiring and not receiving the expected service.
 
 Gains:
-> Assistance in travel booking 
-> Opportunity for best deal 
+> Assistance in booking travel destinations and packages
+> The opportunity to receive well suited package in relation to my chosen preferences
+> Acquiring the best deals and saving money
+
 
 
 # Point Of View <h1> 
