@@ -71,5 +71,5 @@ INSIGHT(BECAUSE):
 
 
 # Assumptions <h1> 
-
+> If a customer calls their call will be accepted
 
