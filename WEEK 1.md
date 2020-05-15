@@ -13,14 +13,17 @@ What do they need to do?
 
 
 Think and Feel:  
-> I hope im getting the best deal  
-> I hope the relationship manager delivers my demands 
+> I hope I am getting the best deal on my holiday package
+> I hope the relationship manager is able to deliver based on my demands and needs  
+> I am hoping that I can trust the relationship manager as I am feeling unsure whether I will benefit from this Travel Company's services 
 
 Hear: 
-> I hear about the services the Travel Company offers 
+> I hear about the various services and pacakges that the Travel Company is offering
+> I hear that I will be matched to a relationship manager based on their skills and my profile and preferences
 
 See:
->
+> I see what the travel market can offer me
+> I see a potential professional relationship with a relationship manager who can cater to my needs
 
 Say:
 > Where can I travel? How much does it cost? What is included in the costs? (Example accomodations)
