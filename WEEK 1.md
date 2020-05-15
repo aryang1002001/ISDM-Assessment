@@ -6,21 +6,24 @@ Who are we empathizing with?
 >What is their role in the situation? 
 
 What do they need to do?
->What do they need to do differntly?
->What job(s) do they need to get done?
->What decision(s) do they need to make?
->How will they know they were successful?
+>What do they need to do differently?
+>What job(s) do they need to get done? Providing details to the company. dialing the CMC
+>What decision(s) do they need to make? The choice between one travel package or another, the amount of money they are willing to spend
+>How will they know they were successful? If they got their preferred holiday package for a price they are willing to pay
 
 
 Think and Feel:  
-> I hope im getting the best deal  
-> I hope the relationship manager delivers my demands 
+> I hope I am getting the best deal on my holiday package
+> I hope the relationship manager is able to deliver based on my demands and needs  
+> I am hoping that I can trust the relationship manager as I am feeling unsure whether I will benefit from this Travel Company's services 
 
 Hear: 
-> I hear about the services the Travel Company offers 
+> I hear about the various services and pacakges that the Travel Company is offering
+> I hear that I will be matched to a relationship manager based on their skills and my profile and preferences
 
 See:
->
+> I see what the travel market can offer me
+> I see a potential professional relationship with a relationship manager who can cater to my needs
 
 Say:
 > Where can I travel? How much does it cost? What is included in the costs? (Example accomodations)
@@ -31,13 +34,15 @@ Do:
 >Asking questions 
 
 Pains:
-> Fear of getting scammed 
-> Not getting the best deal 
-> waste of time inquiring
+> Fear my personal information being misused or being scammed
+> being connected to an inadequate relationship manager and not recieving the best deal suited to my preferences 
+> Wasting time enquiring and not receiving the expected service.
 
 Gains:
-> Assistance in travel booking 
-> Opportunity for best deal 
+> Assistance in booking travel destinations and packages
+> The opportunity to receive well suited package in relation to my chosen preferences
+> Acquiring the best deals and saving money
+
 
 
 # Point Of View <h1> 
@@ -65,5 +70,16 @@ INSIGHT(BECAUSE):
 
 
 
+# Assumptions <h1> 
 
+> Transaction Fraud is relevant in the in-phone purchases, hence security protocols have to be made when developing the system 
+ 
+> During inbound calls, it can be assumed that Interavtive Voice Response unit/Automatic Call Distributor gather information about the customer in which creates a customer profile that will eventually be matched to RM's profile 
 
+> Feedback system at the end of the calls are an option for both RM and Customers. 
+
+> When customer makes purchases, an invoice needs to be sent of their purchases which includes customer details, travel booking details, and confirmation. 
+
+> If a customer calls their call will be accepted
+
+> All relationship managers will have a stable phone connection to ensure smooth phone calls with customers, and minimising the risk of any potential connection issues
