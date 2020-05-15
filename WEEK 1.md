@@ -72,4 +72,4 @@ INSIGHT(BECAUSE):
 
 # Assumptions <h1> 
 > If a customer calls their call will be accepted
-
+> All relationship managers will have a stable phone connection to ensure smooth phone calls with customers, and minimising the risk of any potential connection issues
