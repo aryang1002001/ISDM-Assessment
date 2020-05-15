@@ -71,6 +71,7 @@ INSIGHT(BECAUSE):
 
 
 # Assumptions <h1> 
+
 > Transaction Fraud is relevant in the in-phone purchases, hence security protocols have to be made when developing the system 
  
 > During inbound calls, it can be assumed that Interavtive Voice Response unit/Automatic Call Distributor gather information about the customer in which creates a customer profile that will eventually be matched to RM's profile 
@@ -79,4 +80,6 @@ INSIGHT(BECAUSE):
 
 > When customer makes purchases, an invoice needs to be sent of their purchases which includes customer details, travel booking details, and confirmation. 
 
+> If a customer calls their call will be accepted
 
+> All relationship managers will have a stable phone connection to ensure smooth phone calls with customers, and minimising the risk of any potential connection issues
