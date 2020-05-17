@@ -10,5 +10,5 @@
 * US007: As a Customer, I want to be given a unique caller id at the end of my calls, so that I can reference information for my future contact with the travel company 
 * US008: As a customer, I want to be given an option of travel insurance so that I can have security/added benefits to my purchases
 * US009 As a customer, I want my information to be secured to that they are not maliciously manipulated or stolen without my consent or knowledge. 
-* US10: As a customer, I want to wait shortly for the first available RM so that I can purchase a holiday package 
-* US11: As a customer, I want to be able to negotiate prices so that I can get the best deal on a holiday package
+* US010: As a customer, I want to wait shortly for the first available RM so that I can purchase a holiday package 
+* US011: As a customer, I want to be able to negotiate prices so that I can get the best deal on a holiday package
