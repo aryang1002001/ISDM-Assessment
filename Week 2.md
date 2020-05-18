@@ -20,13 +20,13 @@ If inbound customers wait too long for their first available RM, they may feel o
 ## How Might We Statements 
 > How might we retain and upgrade customer loyalty
 
-How might we better handle fraudulence of customer information and transaction 
+> How might we better handle fraudulence of customer information and transaction 
 
-How might we protect the data of consumers
+> How might we protect the data of consumers
 
-How might we find a way to upsell consumers
+> How might we find a way to upsell consumers
 
-How might we innovate the profiler tool of the system 
+> How might we innovate the profiler tool of the system 
 
-How might we upskill selling interactions of RM
+> How might we upskill selling interactions of RM
 
