@@ -17,3 +17,16 @@
 ## Feedback System at end of calls
 If inbound customers wait too long for their first available RM, they may feel obligated to provide feedback of this difficulty. This can be done by pressing '1' to the automated prompts, occurring at the end of the call. Alternatively, they can just hang up to avoid this option entirely.
 
+## How Might We Statements 
+> How might we retain and upgrade customer loyalty
+
+How might we better handle fraudulence of customer information and transaction 
+
+How might we protect the data of consumers
+
+How might we find a way to upsell consumers
+
+How might we innovate the profiler tool of the system 
+
+How might we upskill selling interactions of RM
+
