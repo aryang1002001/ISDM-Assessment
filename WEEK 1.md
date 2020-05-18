@@ -83,3 +83,19 @@ INSIGHT(BECAUSE):
 > If a customer calls their call will be accepted
 
 > All relationship managers will have a stable phone connection to ensure smooth phone calls with customers, and minimising the risk of any potential connection issues
+
+
+# Analysis of the case study <h1>
+> Understanding the System 
+
+A major travel company is pushing innovative efforts of improving their in-house Call Management Centre (CMC) and is seeking professional assistance in developing a new information system. Within the company are Relationship Managers, who’s role is to satisfy current and potential customers with travel needs. Business managers of the company strategize that an upgrade of their in-phone sales activities (inbound/outbound call rating and call flow rate) is a huge asset to RM’s sales motives and offer customers the best in-phone service experience with the company. Considering the vast amount of travel packages offered by the company, the new information system will improve call flow rate by allowing a more effective alignment of customers with specific needs and Relationship Managers with the appropriate portfolio to deliver customer satisfaction
+
+As a way of matching the right customer to the right Relationship Manager, the system embodies a ‘Profiler Tool’ in which sets profile for both users of the systems. Attributes within these profiles feed the decision-making system in allocation of Relationship Manager and Customers. From this, business managers hope to expect a better customer experience which lead to growth in customer relationship and profitable gains.
+
+To add upon the profiler feature of the system, it is worth mentioning that Relationship Managers are also evaluated and scaled based on the effectiveness and efficiency of their sales performance. Conversely, customers are also scored from 1-10 based upon their transaction history and call frequency with the travel company. 
+
+Outbound and Inbound of the New System 
+Relationship Managers make outbound calls as a mean to promote products and attract potential buyers. The system offers relationship managers a ‘target list’ of customers that suspects commonalities of attributes between RM and the customer. When making these outbound calls, system prepares Relationship Managers with reference to customer profile and an outlined script of their sales activity. 
+
+For customers wishing to inquire and purchase travel packages through inbound calls, their dials are redirected to the Call Management Centre that prioritise their calls. As a mean to maximise call handling effectiveness, customers with the highest score are prioritised and directed to their appropriate RM manager. Furthermore, inbound call traffic calls can occur leading uncertain wait time for customers. To compensate this, the system manages these in-dial waiting customers to an Interactive Voice Response unit to gather information of their needs which then redirects them to an Automatic Call Distributor to segment callers to their appropriate Relationship Manager when ready. 
+
