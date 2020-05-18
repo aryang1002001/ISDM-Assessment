@@ -14,3 +14,6 @@
 ## Relationship Manager Phone Connection
 > It can be assumed that all relationship managers will have stable phone connections in order to ensure smooth phone calls with their customers, making sure that the flow of the holiday package booking process is not disrupted and that there are no network issues.
 
+## Feedback System at end of calls
+If inbound customers wait too long for their first available RM, they may feel obligated to provide feedback of this difficulty. This can be done by pressing '1' to the automated prompts, occurring at the end of the call. Alternatively, they can just hang up to avoid this option entirely.
+
