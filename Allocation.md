@@ -53,3 +53,6 @@
 # TO do later
 * User story estimates
 * User story acceptance criteria
+
+## Sunday (24 May)
+* Aryan - Finish inbound calls use case narrative and start sequence diagram on inbound calls.
