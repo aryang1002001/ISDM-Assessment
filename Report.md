@@ -168,6 +168,7 @@ How Might We Statements
 - How might we innovate the profiler tool of the system
 - How might we upskill selling interactions of RM
 ### 4. USE Cases
+- The diagrams and tables for sections 4-6 can be seen in the github repository and/or the report.pdf
 #### 4.1 Assumptions
 #### 4.2 User Stories
 #### 4.3 Use Case Narratives
