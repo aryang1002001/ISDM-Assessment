@@ -154,32 +154,24 @@ How Might We Statements
 #### 6.1 Sequence Diagrams
 #### 6.2 Activity Diagrams
 ### 7. Iterative Approach
-#### 7.1 Team Roles
-#### 7.2 Product Backlog
-#### 7.3 Sprints
-##### 7.3.1 Sprint 1
-##### 7.3.2 Sprint 2
-##### 7.3.3 Sprint 3
-##### 7.3.4 Sprint 4
-# 8. Iterative Approach
 
 The project will be completed over the course of 8 weeks with the adoption of 4 sprints to be completed. We estimated each sprint to approximately require a duration of 14 days.
 
-# 8.1 Team Roles
+#### 7.1 Team Roles
 
 | **Role** | **Product Owner** | **Scrum Master** | **Developer** | **Tester** |
 | --- | --- | --- | --- | --- |
 | **Name** | Aryan Gupta | Mark Gonzales | Brendan Kaihe | Christian John  |
 
-# 8.2 Product Backlog
+#### 7.2 Product Backlog
 
 A product backlog was produced in GitHub using the user stories to ensure the development team had a clear view on their goals for each sprint.
 
 ![](RackMultipart20200602-4-tkaf3_html_f227382f23caf503.png)
 
-# 8.3 Sprints
+#### 7.3 Sprints
 
-# 8.3.1 Sprint 1
+##### 7.3.1 Sprint 1
 
 |User Stories| US001, US003,|
 | --- | --- |
@@ -188,7 +180,7 @@ A product backlog was produced in GitHub using the user stories to ensure the de
 |Sprint Tasks| 1. Improve interactive voice unit prompt options to be more customer friendly and efficient2. Improve automatic call distributor, distribution process during peak hours3. Create the foundation for a potential profiler tool to be implemented|
 |Duration|14 days (2 weeks)|
 
-# 8.3.2 Sprint 2
+##### 7.3.2 Sprint 2
 
 |User Stories| US002, US006, US011 |
 | --- | --- |
@@ -197,7 +189,7 @@ A product backlog was produced in GitHub using the user stories to ensure the de
 |Sprint Tasks| 1. Design an Automatic Call Distributor that targets the generated customer target list and automatically dials these numbers for the Relationship Manager2. Create a system that displays a sales script to Relationship Managers regarding customer details and proposed products.|
 |Duration| 14 Days (2 weeks)|
 
-# 8.3.3 Sprint 3
+##### 7.3.3 Sprint 3
 
 |User Stories| US004 |
 | --- | --- |
@@ -206,7 +198,7 @@ A product backlog was produced in GitHub using the user stories to ensure the de
 |Sprint Tasks| 1. Integrate profiler tool with the inbound call process/flow2. Integrate profiler tool with the outbound call process/flow|
 |Duration| 14 Days (2 weeks)|
 
-# 8.3.4 Sprint 4
+##### 7.3.4 Sprint 4
 
 |User Stories| US002 |
 | --- | --- |
@@ -214,7 +206,7 @@ A product backlog was produced in GitHub using the user stories to ensure the de
 |Goal| Match relationship managers and end customers according to their profiles |
 |Sprint Tasks| 1. Configure profiler tool with relationship manager database2. Configure profiler tool with customer database3. Create algorithm which matches relationship managers and end customer based on their profiles|
 |Duration|14 Days (2 Weeks)|
-# 9. Evaluation of Scrum -
+### 8. Evaluation of Scrum -
 
 With the implementation of the agile methodology scrum, we were able to iteratively develop parts of the new system and incrementally satisfy the target objectives. As scrum is characterised by its emphasis on teamwork, we were required to be cross-functional, accountable and self-organised. The inclusion of all users and consideration of clients in our development process allowed us to efficiently manage expectations of the travel companies key stakeholders.
 
@@ -224,9 +216,9 @@ As transparency is a key characteristic in scrum development, we ensured all sta
 
 Overall, the effectiveness of the scrum approach is observed especially in projects where there are high levels of user interaction, as seen within the travel companies situation. The flexibility and contemporary nature allowed for new developments for the system to be adjusted as they were identified. Scrum, complemented with the use of design thinking should allow the project to transition from concept to implementation smoothly.
 
-# 10. System Evaluation
+### 9. System Evaluation
 
-# 10.1 Benefits
+#### 9.1 Benefits
 
 The developed information system to improve the in-house call management centre can reap both tangible and intangible benefits for the travel company&#39;s stakeholders
 
@@ -237,7 +229,7 @@ The developed information system to improve the in-house call management centre 
 - Provide more assistance to relationship managers in their ability to provide an improved service to end customers
 - Integrate a profiler tool to set and track profiles of users within the system
 
-# 10.2 Possible Failures
+#### 9.2 Possible Failures
 
 When developing a new system, potential failures are to be expected hence precautions,  maintenance, and repairs are necessary throughout the System Development Life Cycle. Below are potential system failures that could occur.
 
@@ -247,7 +239,7 @@ When developing a new system, potential failures are to be expected hence precau
 - The on-phone travel booking process may not be targeted for many consumers as younger generation of consumers would prefer booking tickets online where data entry and transaction details are ensured
 - Transaction fraud is always a potential failure when transactions are made over the phone as a customer&#39;s call could potentially be intercepted or monitored
 
-# References
+### References
 
 - Beydoun, G. 2020. _&#39;Interaction Modelling&#39;_, UTS Online Subject 31257, Powerpoint presentation, UTS, Sydney, viewed 16 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
 
@@ -273,9 +265,9 @@ When developing a new system, potential failures are to be expected hence precau
 
 - Chandran, D. 2020, _&#39;Week10 - Evaluation Of IS Methodology - Captioned Audio&#39;_, UTS Online Subject 31257, audio file, UTS, Sydney, viewed 29 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
 
-# Appendices
+### Appendices
 
-# Appendix 1A
+#### Appendix 1A
 
 Link to presentation video:
 
