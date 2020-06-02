@@ -95,37 +95,13 @@ The overall objective of the major travel company is to develop a new informatio
 - Integrate a profiler tool to set and track profiles of users within the system
 - Match relationship managers and end customers according to their profiles
 ### 2. Stakeholders
-| Stakeholder | Responsibility | Concerns | Operations |
-| --- | --- | --- | --- |
-| Customer | Call and book holiday packages with the travel company |
-- Assistance in booking a holiday package
-- Security of personal information stored
- |
-- Contact Company
-- Order Packages
 
-- Complete payments
- |
-| Relationship Manager | Provide customers with adequate service to secure packages |
-- Provision of accurate data from system
- |
-- Connect to customers
-
--  Handle transactions
-
--  Provide service
- |
-| Business Manager | Identify improvements to the system |
-- Inefficient existing operations
- |
-- Strategize plans to improve efficiency
- |
-| Travel Company Owner | Executive of overall business |
-- Inefficient operation  of in-house call management centre
- |
-- Oversee company
- |
- Please refer to PDF report file
+| Stakeholder          | Responsibility                                             | Concerns                                                                         | Operations                                                   |
+|----------------------|------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Customer             | Call and book holiday packages with the travel company     | Assistance in booking a holiday package  Security of personal information stored | Contact Company  Order Packages  Complete payments           |
+| Relationship Manager | Provide customers with adequate service to secure packages | Provision of accurate data from system                                           | Connect to customers   Handle transactions   Provide service |
+| Business Manager     | Identify improvements to the system                        | Inefficient existing operations                                                  | Strategize plans to improve efficiency                       |
+| Travel Company Owner | Executive of overall business                              | Inefficient operation  of in-house call management centre                        | Oversee company                                              |
  
 ### 3. Design Thinking
 #### 3.1 Empathy
