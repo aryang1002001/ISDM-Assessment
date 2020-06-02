@@ -168,116 +168,14 @@ How Might We Statements
 - How might we innovate the profiler tool of the system
 - How might we upskill selling interactions of RM
 ### 4. USE Cases
-
-- Refer to github repository or report.pdf
-
 #### 4.1 Assumptions
-
-- Refer to github repository or report.pdf
-
 #### 4.2 User Stories
-
-- Refer to github repository or report.pdf
-
-#### 4.3 Use Case Diagrams
-
-- Refer to github repository or report.pdf
-
-#### 4.4 User Case Narratives
-
-| **USE Case ID** | UC101: Inbound Calls |
-| --- | --- |
-| **User Story** | US004: As a customer I want to connect to a suitable relationship manager who matches my criteria, so that my preferences are understood properly |
-| **Goal** | Customer gets the best deal on their holiday package. |
-| **Priority** | High |
-| **Actors** | Primary Actor - CustomerSecondary Actor - Relationship Manager, Automatic Call Distributor, Profiler Tool, Interactive Response unit |
-| **Pre-Conditions** | The customer has access to the travel company&#39;s phone line |
-| **Post Conditions** | The customer has connected with a relationship manager and/or booked a holiday package |
-| **Trigger** | The Customer calls the travel company |
-| **Main Flow** |
-1. Customer dials the travel company&#39;s phone number
-2. Automatic call distributor receives the customer&#39;s call. If the customer calls during peak hours refer to **Alternate Flow 1 : Peak Hour Inbound Calls**
-3. Customer connects with automatic call distributor
-4. Automatic call distributor requests customer&#39;s information
-5. Customer provides information
-6. Profiler tool creates unique caller ID and collects customer&#39;s information and creates a new customer profile. If the customer is an existing customer refer to **Alternate Flow 2: Existing Customer**
-7. Profiler tool scores customers profile
-8. Automatic call distributor sets the priority of the call
-9. Profiler tool matches call with an RM profile, creating sales script about the customer
-10. Relationship manager reviews customer information and sales script
-11. Automatic call distributor routes customers call to an appropriate relationship manager
-12. Relationship manager answers customers call
-13. Use Case Ends
- |
-| **Exceptions** | **Exception 1.** Step 4: System is unavailable when the profiler tool attempts to create a new customer profile. **Exception 2.** Steps 1-11: Customer ends the call at any time, prompting the profiler tool to end its current session. |
-| **Includes/Extends/Inherits** | N/A |
-| **Supporting Information** | Customer information needs to be stored on a central server |
-| **Non - functional requirements** | Performance/Connectivity: All calls should be flowing and not interrupted by any connectivity issues |
-
-| **Alternate Flow 1** | &quot;Peak hour inbound calls&quot; |
-| --- | --- |
-| **Trigger** | The customer calls the travel company during peak hour |
-| **Step** | 1. Interactive response unit sends customer prompt options 2. Customer responds to prompt options3. Interactive response unit processes customer&#39;s response4. Rejoin step 4 in the main flow.
- |
-| **Post conditions** | The automatic call distributor is able to process the customers information and send it to the profiler tool |
-| **Exceptions** | **Exception1.** Steps1-3: Customer ends the call any time, causing the interactive response unit to end the session. |
-
-| **Alternate Flow 2** | &quot;Existing customer&quot; |
-| --- | --- |
-| **Trigger** | The customer calling the travel company is an existing customer |
-| **Step** | 1. Profiler tool retrieves customer&#39;s profile2. Rejoin step 7 in the main flow. |
-| **Post conditions** | Profiler tool retrieves customer&#39;s profile |
-| **Exceptions** | **Exception1.** Step1: Customer ends the call at any time, causing the profiler tool to end the session. |
-
-| **USE Case ID** | UC102: Outbound Calls |
-| --- | --- |
-| **User Story** | As a Relationship Manager, I want to receive the correct information and guidelines from the system so that I can provide an improved service to the end-customer. |
-| **Goal** | Provide the targeted customer with improved service and attract potential buyers |
-| **Priority** | High |
-| **Actors** | Primary Actor: Relationship ManagerSecondary Actor: Customer, Call Management System, Profiler Tool |
-| **Pre-Conditions** | The Relationship Manager has access to the Call Management System.Database with customer details exists within the system. |
-| **Post Conditions** | The Relationship Manager has successfully been connected to a customer |
-| **Trigger** | The Relationship Manager is assigned a number by the system and calls the customer. |
-| **Main Flow** |
-1. The Call Management System retrieves customer details from the database.
-2. The system generates a unique target list for each Relationship Manager based on their skills and profile identified by the profiler tool.
-3. The system displays the customer details and provides the Relationship Manager with guidelines and a script.
-4. Relationship Manager reviews information and receives a unique call ID.
-5. Relationship Manager connects to customer. Refer to Alternate flow 1: **Call not connected**
-6. provides unique call ID to customer
-7. Profiler tool scores and updates existing profiles of both Relationship Manager and customer based on outcome of call.
-8. Steps 3-7 are repeated till the end of the target list is reached.
-9. Use Case ends.
- |
-| **Exceptions** | **2**
- |
-| **Includes/Extends/Inherits** | NA |
-| **Supporting Information** | Relationship Managers are already initialised within the system |
-| **Non - functional requirements** | Security: All customer details must be kept securePerformance: Calls to a customer must be connected in under 30 seconds |
-
-| **Alternate Flow 1** | &quot;Call not connected&quot; |
-| --- | --- |
-| **Trigger** | Relationship Manager is unable to reach potential customer |
-| **Step** |
-1. Profiler tool adjusts customer profile
-2. Rejoin at step 4 in the main flow.
-
- |
-| **Post conditions** | Relationship Manager proceeds to the next targeted customer |
-| **Exceptions** | End of the target list is already reached, then the use case ends. |
-
+#### 4.3 Use Case Narratives
 ### 5 Objects and Classes
 #### 5.1 Class Diagram
-
-- Refer to github repository or report.pdf
-
 ### 6. Run time Model
-- Refer to github repository or report.pdf
 #### 6.1 Sequence Diagrams
-- Refer to github repository or report.pdf
 #### 6.2 Activity Diagrams
-- Refer to github repository or report.pdf
-
 ### 7. Iterative Approach
 #### 7.1 Team Roles
 #### 7.2 Product Backlog
@@ -286,12 +184,69 @@ How Might We Statements
 ##### 7.3.2 Sprint 2
 ##### 7.3.3 Sprint 3
 ##### 7.3.4 Sprint 4
-### 8. Evaluation
-### 9. System Evaluation
-#### 9.1 Benefits
-#### 9.2 Possible Failures
-## References
+# 9. Evaluation of Scrum -
 
-## Appendicies
-### Appendix 1A
+With the implementation of the agile methodology scrum, we were able to iteratively develop parts of the new system and incrementally satisfy the target objectives. As scrum is characterised by its emphasis on teamwork, we were required to be cross-functional, accountable and self-organised. The inclusion of all users and consideration of clients in our development process allowed us to efficiently manage expectations of the travel companies key stakeholders.
 
+Through the preparation of a product backlog, user stories were prioritised based on its importance to the outlined goals of the new system. The application of four main sprints over the course of 8 weeks allowed the gradual completion of objectives and provided time to ensure they aligned with the travel companies requirements. The highest prioritised tasks outlined in the product backlog became the functional targets for each sprint. The sprints were complemented with routine meetings, reviews and sprint planning phases so that each individual had an understanding of all outlined tasks.
+
+As transparency is a key characteristic in scrum development, we ensured all stakeholders were informed on the current progress of the project. As such continuous feedback from different perspectives on the system were taken into consideration and acted upon throughout each sprint. This allowed not only our team to collaboratively identify any problems, but to also ensure our development was still aligned with the end goals with each iteration.
+
+Overall, the effectiveness of the scrum approach is observed especially in projects where there are high levels of user interaction, as seen within the travel companies situation. The flexibility and contemporary nature allowed for new developments for the system to be adjusted as they were identified. Scrum, complemented with the use of design thinking should allow the project to transition from concept to implementation smoothly.
+
+# 10. System Evaluation
+
+# 10.1 Benefits
+
+The developed information system to improve the in-house call management centre can reap both tangible and intangible benefits for the travel company&#39;s stakeholders
+
+- With the provision of Caller ID, it would be easier for both relationship managers and customers to reference back to older calls if they wish to. Having a generated Caller ID also eases the processes to analyse consumer and relationship data during the profiler score process.
+- Better alignment of relationship managers and customers based on matched details and attributes.
+- The new system recognises customer wait time and prompts an interactive response unit to manage these waiting customers.
+- Improve call routing and dynamic call flow control for inbound and outbound calls
+- Provide more assistance to relationship managers in their ability to provide an improved service to end customers
+- Integrate a profiler tool to set and track profiles of users within the system
+
+# 10.2 Possible Failures
+
+When developing a new system, potential failures are to be expected hence precautions,  maintenance, and repairs are necessary throughout the System Development Life Cycle. Below are potential system failures that could occur.
+
+- When implementing the system, it is expected that resistance to change is prevalent for some travel company staff.
+- Requires consistent telephone connection, hence can experience operational delays when associated third party phone distributors are having technical complications.
+- Data entry issues can be made as collections of info are done through the phone. With this being said, customers may experience trouble upon arrival at the airline check-in gate. Inconsistency in data entry could result in duplicates of customer information.
+- The on-phone travel booking process may not be targeted for many consumers as younger generation of consumers would prefer booking tickets online where data entry and transaction details are ensured
+- Transaction fraud is always a potential failure when transactions are made over the phone as a customer&#39;s call could potentially be intercepted or monitored
+
+# References
+
+- Beydoun, G. 2020. _&#39;Interaction Modelling&#39;_, UTS Online Subject 31257, Powerpoint presentation, UTS, Sydney, viewed 16 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Beydoun, G. 2020. _&#39;Lecture 8 - 1 - OO Techniques  - Video And Captions&#39;_, UTS Online Subject 31257, video file, UTS, Sydney, viewed 16 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Beydoun, G. 2020. _&#39;OO Techniques&#39;,_ UTS Online Subject 31257, Powerpoint presentation, UTS, Sydney, viewed 16 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Beydoun, G. 2020. _&#39;Week 8 - 2 - OO Techniques 2 - Video And Captions&#39;_, UTS Online Subject 31257, video file, UTS, Sydney, viewed 16 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Chandran, D. 2020, _&#39;Design Thinking&#39;_, UTS Online Subject 31257, Powerpoint presentation, UTS, Sydney, viewed 23 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;
+
+- Chandran, D. 2020. _&#39;Design Thinking Part 2 (Ideate, Prototype &amp; Test)&#39;_, UTS Online Subject 31257, Powerpoint presentation, UTS, Sydney, viewed 23 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Chandran, D. 2020. _&#39;Evaluation of Methodologies: NIMSAD &amp; General Principles&#39;_, UTS Online Subject 31257, Powerpoint presentation, UTS, Sydney, viewed 29 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Chandran, D. 2020, _&#39;Lecture 4 - Hello Agile - Captioned Audio&#39;_, UTS Online Subject 31257,    audio file, UTS, Sydney, viewed 2 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Chandran, D. 2020, _&#39;Lecture 5 - Agile Scrum - Captioned Audio&#39;_, UTS Online Subject 31257,    audio file, UTS, Sydney, viewed 9 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Chandran, D. 2020, _&#39;Lecture 6 - Forum Crescent 3 - Captioned Audio&#39;_, UTS Online Subject 31257,    audio file, UTS, Sydney, viewed 9 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Chandran, D. 2020, _&#39;Lecture 9 - Design Thinking 2 - Captioned Audio&#39;_, UTS Online Subject 31257, audio file, UTS, Sydney, viewed 23 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+- Chandran, D. 2020, _&#39;Week10 - Evaluation Of IS Methodology - Captioned Audio&#39;_, UTS Online Subject 31257, audio file, UTS, Sydney, viewed 29 May 2020, \&lt;[https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course\_id=\_41893\_1&amp;content\_id=\_3756258\_1](https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&amp;content_id=_3756258_1)\&gt;.
+
+# Appendices
+
+# Appendix 1A
+
+Link to presentation video:
+
+- [https://www.youtube.com/watch?v=tG-xcysOzcQ&amp;feature=youtu.be&amp;fbclid=IwAR0hoOb6O8KaoFKxJp5GWJPkp57HeVjjLu7xxkwBW-FC0sGxPiu3xSFkbhY](https://www.youtube.com/watch?v=tG-xcysOzcQ&amp;feature=youtu.be&amp;fbclid=IwAR0hoOb6O8KaoFKxJp5GWJPkp57HeVjjLu7xxkwBW-FC0sGxPiu3xSFkbhY)
