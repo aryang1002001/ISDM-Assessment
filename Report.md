@@ -168,14 +168,116 @@ How Might We Statements
 - How might we innovate the profiler tool of the system
 - How might we upskill selling interactions of RM
 ### 4. USE Cases
+
+- Refer to github repository or report.pdf
+
 #### 4.1 Assumptions
+
+- Refer to github repository or report.pdf
+
 #### 4.2 User Stories
-#### 4.3 Use Case Narratives
+
+- Refer to github repository or report.pdf
+
+#### 4.3 Use Case Diagrams
+
+- Refer to github repository or report.pdf
+
+#### 4.4 User Case Narratives
+
+| **USE Case ID** | UC101: Inbound Calls |
+| --- | --- |
+| **User Story** | US004: As a customer I want to connect to a suitable relationship manager who matches my criteria, so that my preferences are understood properly |
+| **Goal** | Customer gets the best deal on their holiday package. |
+| **Priority** | High |
+| **Actors** | Primary Actor - CustomerSecondary Actor - Relationship Manager, Automatic Call Distributor, Profiler Tool, Interactive Response unit |
+| **Pre-Conditions** | The customer has access to the travel company&#39;s phone line |
+| **Post Conditions** | The customer has connected with a relationship manager and/or booked a holiday package |
+| **Trigger** | The Customer calls the travel company |
+| **Main Flow** |
+1. Customer dials the travel company&#39;s phone number
+2. Automatic call distributor receives the customer&#39;s call. If the customer calls during peak hours refer to **Alternate Flow 1 : Peak Hour Inbound Calls**
+3. Customer connects with automatic call distributor
+4. Automatic call distributor requests customer&#39;s information
+5. Customer provides information
+6. Profiler tool creates unique caller ID and collects customer&#39;s information and creates a new customer profile. If the customer is an existing customer refer to **Alternate Flow 2: Existing Customer**
+7. Profiler tool scores customers profile
+8. Automatic call distributor sets the priority of the call
+9. Profiler tool matches call with an RM profile, creating sales script about the customer
+10. Relationship manager reviews customer information and sales script
+11. Automatic call distributor routes customers call to an appropriate relationship manager
+12. Relationship manager answers customers call
+13. Use Case Ends
+ |
+| **Exceptions** | **Exception 1.** Step 4: System is unavailable when the profiler tool attempts to create a new customer profile. **Exception 2.** Steps 1-11: Customer ends the call at any time, prompting the profiler tool to end its current session. |
+| **Includes/Extends/Inherits** | N/A |
+| **Supporting Information** | Customer information needs to be stored on a central server |
+| **Non - functional requirements** | Performance/Connectivity: All calls should be flowing and not interrupted by any connectivity issues |
+
+| **Alternate Flow 1** | &quot;Peak hour inbound calls&quot; |
+| --- | --- |
+| **Trigger** | The customer calls the travel company during peak hour |
+| **Step** | 1. Interactive response unit sends customer prompt options 2. Customer responds to prompt options3. Interactive response unit processes customer&#39;s response4. Rejoin step 4 in the main flow.
+ |
+| **Post conditions** | The automatic call distributor is able to process the customers information and send it to the profiler tool |
+| **Exceptions** | **Exception1.** Steps1-3: Customer ends the call any time, causing the interactive response unit to end the session. |
+
+| **Alternate Flow 2** | &quot;Existing customer&quot; |
+| --- | --- |
+| **Trigger** | The customer calling the travel company is an existing customer |
+| **Step** | 1. Profiler tool retrieves customer&#39;s profile2. Rejoin step 7 in the main flow. |
+| **Post conditions** | Profiler tool retrieves customer&#39;s profile |
+| **Exceptions** | **Exception1.** Step1: Customer ends the call at any time, causing the profiler tool to end the session. |
+
+| **USE Case ID** | UC102: Outbound Calls |
+| --- | --- |
+| **User Story** | As a Relationship Manager, I want to receive the correct information and guidelines from the system so that I can provide an improved service to the end-customer. |
+| **Goal** | Provide the targeted customer with improved service and attract potential buyers |
+| **Priority** | High |
+| **Actors** | Primary Actor: Relationship ManagerSecondary Actor: Customer, Call Management System, Profiler Tool |
+| **Pre-Conditions** | The Relationship Manager has access to the Call Management System.Database with customer details exists within the system. |
+| **Post Conditions** | The Relationship Manager has successfully been connected to a customer |
+| **Trigger** | The Relationship Manager is assigned a number by the system and calls the customer. |
+| **Main Flow** |
+1. The Call Management System retrieves customer details from the database.
+2. The system generates a unique target list for each Relationship Manager based on their skills and profile identified by the profiler tool.
+3. The system displays the customer details and provides the Relationship Manager with guidelines and a script.
+4. Relationship Manager reviews information and receives a unique call ID.
+5. Relationship Manager connects to customer. Refer to Alternate flow 1: **Call not connected**
+6. provides unique call ID to customer
+7. Profiler tool scores and updates existing profiles of both Relationship Manager and customer based on outcome of call.
+8. Steps 3-7 are repeated till the end of the target list is reached.
+9. Use Case ends.
+ |
+| **Exceptions** | **2**
+ |
+| **Includes/Extends/Inherits** | NA |
+| **Supporting Information** | Relationship Managers are already initialised within the system |
+| **Non - functional requirements** | Security: All customer details must be kept securePerformance: Calls to a customer must be connected in under 30 seconds |
+
+| **Alternate Flow 1** | &quot;Call not connected&quot; |
+| --- | --- |
+| **Trigger** | Relationship Manager is unable to reach potential customer |
+| **Step** |
+1. Profiler tool adjusts customer profile
+2. Rejoin at step 4 in the main flow.
+
+ |
+| **Post conditions** | Relationship Manager proceeds to the next targeted customer |
+| **Exceptions** | End of the target list is already reached, then the use case ends. |
+
 ### 5 Objects and Classes
 #### 5.1 Class Diagram
+
+- Refer to github repository or report.pdf
+
 ### 6. Run time Model
+- Refer to github repository or report.pdf
 #### 6.1 Sequence Diagrams
+- Refer to github repository or report.pdf
 #### 6.2 Activity Diagrams
+- Refer to github repository or report.pdf
+
 ### 7. Iterative Approach
 #### 7.1 Team Roles
 #### 7.2 Product Backlog
