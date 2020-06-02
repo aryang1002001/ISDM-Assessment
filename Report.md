@@ -161,6 +161,59 @@ How Might We Statements
 ##### 7.3.2 Sprint 2
 ##### 7.3.3 Sprint 3
 ##### 7.3.4 Sprint 4
+# 8. Iterative Approach
+
+The project will be completed over the course of 8 weeks with the adoption of 4 sprints to be completed. We estimated each sprint to approximately require a duration of 14 days.
+
+# 8.1 Team Roles
+
+| **Role** | **Product Owner** | **Scrum Master** | **Developer** | **Tester** |
+| --- | --- | --- | --- | --- |
+| **Name** | Aryan Gupta | Mark Gonzales | Brendan Kaihe | Christian John  |
+
+# 8.2 Product Backlog
+
+A product backlog was produced in GitHub using the user stories to ensure the development team had a clear view on their goals for each sprint.
+
+![](RackMultipart20200602-4-tkaf3_html_f227382f23caf503.png)
+
+# 8.3 Sprints
+
+# 8.3.1 Sprint 1
+
+|User Stories| US001, US003,|
+| --- | --- |
+|Priority (H, M , L)| H |
+|Goal| Improve call routing and dynamic call flow control for inbound calls |
+|Sprint Tasks| 1. Improve interactive voice unit prompt options to be more customer friendly and efficient2. Improve automatic call distributor, distribution process during peak hours3. Create the foundation for a potential profiler tool to be implemented|
+|Duration|14 days (2 weeks)|
+
+# 8.3.2 Sprint 2
+
+|User Stories| US002, US006, US011 |
+| --- | --- |
+|Priority (H, M , L)| H |
+|Goal| Improve call routing and dynamic call flow control for outbound calls|
+|Sprint Tasks| 1. Design an Automatic Call Distributor that targets the generated customer target list and automatically dials these numbers for the Relationship Manager2. Create a system that displays a sales script to Relationship Managers regarding customer details and proposed products.|
+|Duration| 14 Days (2 weeks)|
+
+# 8.3.3 Sprint 3
+
+|User Stories| US004 |
+| --- | --- |
+|Priority (H, M , L)| H |
+|Goal| Integrate the profiler tool within the call management information system |
+|Sprint Tasks| 1. Integrate profiler tool with the inbound call process/flow2. Integrate profiler tool with the outbound call process/flow|
+|Duration| 14 Days (2 weeks)|
+
+# 8.3.4 Sprint 4
+
+|User Stories| US002 |
+| --- | --- |
+|Priority (H, M , L)| H |
+|Goal| Match relationship managers and end customers according to their profiles |
+|Sprint Tasks| 1. Configure profiler tool with relationship manager database2. Configure profiler tool with customer database3. Create algorithm which matches relationship managers and end customer based on their profiles|
+|Duration|14 Days (2 Weeks)|
 # 9. Evaluation of Scrum -
 
 With the implementation of the agile methodology scrum, we were able to iteratively develop parts of the new system and incrementally satisfy the target objectives. As scrum is characterised by its emphasis on teamwork, we were required to be cross-functional, accountable and self-organised. The inclusion of all users and consideration of clients in our development process allowed us to efficiently manage expectations of the travel companies key stakeholders.
