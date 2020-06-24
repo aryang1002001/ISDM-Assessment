@@ -1,3 +1,6 @@
 # ISDM-Assessment
-The repository for our Information Systems Development Methodologies (ISDM) assessment 
-Link for Markdown cheatsheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+> Information System Development Methodologies Design Thinking and Scrum Activities Assessment
+- Aryan Gupta
+- Mark Gonzales
+- Brendan Kaihe
+- Christian John
